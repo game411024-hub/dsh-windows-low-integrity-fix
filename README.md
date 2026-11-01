@@ -1,5 +1,6 @@
 # dsh-windows-low-integrity-fix
 DeepSeek Harness Windows 桌面端无法启动的排查与修复：DSH 沙箱把安装目录标成低完整性(Low Integrity)
+
 Fix DeepSeek Harness desktop crashing on Windows when DSH's sandbox marks its install directory as Low Integrity
 
 # DeepSeek Harness Windows 无法启动修复指南
